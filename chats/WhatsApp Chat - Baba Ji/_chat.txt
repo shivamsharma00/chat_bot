@@ -1,0 +1,110 @@
+[6/28/22, 1:59:30 PM] Baba Ji: ‎Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
+[6/28/22, 1:59:30 PM] Baba Ji: Hello,
+I am Parth. This is my new whatsapp number. There was no chance of saving the old one. 😅
+‎[6/29/22, 10:34:20 PM] Shivam Sharma: ‎image omitted
+[6/29/22, 10:34:50 PM] Baba Ji: 👍
+[6/29/22, 10:34:57 PM] Baba Ji: I already sent i20
+[6/29/22, 10:35:05 PM] Shivam Sharma: Cool
+[7/6/22, 1:58:28 PM] Baba Ji: I am also interested in wells fargo challenge, let me know if you want to do it together.
+[7/6/22, 2:04:13 PM] Shivam Sharma: Sounds great to me
+[7/6/22, 2:06:03 PM] Baba Ji: When do u think we can start the work?
+[7/6/22, 2:35:12 PM] Shivam Sharma: Now
+[7/7/22, 1:53:12 PM] Baba Ji: Kaha bhai call nahi lag raha
+[7/7/22, 1:53:33 PM] Shivam Sharma: Han ander network nhi aa rha
+[7/7/22, 1:53:37 PM] Shivam Sharma: Hayden me hu me
+[7/7/22, 1:53:47 PM] Baba Ji: Toh kahan milna hai?
+[7/7/22, 1:53:55 PM] Shivam Sharma: Paseo jana h na
+[7/7/22, 1:53:56 PM] Baba Ji: Paseo pehle chale?
+[7/7/22, 1:54:01 PM] Shivam Sharma: Han
+[7/7/22, 1:54:33 PM] Baba Ji: Mein nikalta hun, tuje time lahega?
+[7/7/22, 1:54:41 PM] Shivam Sharma: Lekin milna kanha h
+[7/7/22, 1:54:56 PM] Shivam Sharma: University park ke udher hi milte h
+[7/7/22, 1:55:02 PM] Baba Ji: Theek hai
+[7/7/22, 1:55:07 PM] Shivam Sharma: Chalo theek h
+‎[7/19/22, 3:15:40 PM] Baba Ji: ‎image omitted
+[7/19/22, 3:16:18 PM] Shivam Sharma: 😂😂Noice
+[7/19/22, 3:16:50 PM] Baba Ji: Noise is right spelling. 😬
+[7/19/22, 3:17:02 PM] Shivam Sharma: Nice too
+[7/21/22, 2:15:01 PM] Shivam Sharma: Hayden basement C17
+[8/8/22, 11:49:18 PM] Baba Ji: https://lifeonverizon.verizonwireless.com/lov/billing-credit.html?p=VEVMRS04OWFhYTNjMi02NTI1LTRhO29XWEJvUFVEaUQ4YzNfM1hsSzhHT0E=&at=Y&dlb=y&nn=y&i=T&c=CHAT-STORE
+‎[8/9/22, 12:21:56 AM] Baba Ji: ‎image omitted
+‎[8/9/22, 2:29:01 PM] Shivam Sharma: ‎image omitted
+[8/10/22, 7:42:18 PM] Shivam Sharma: Aur baba ji pahuch gye?
+[8/10/22, 7:42:37 PM] Baba Ji: Haan
+[8/10/22, 7:42:58 PM] Shivam Sharma: 👍
+[8/10/22, 10:08:41 PM] Baba Ji: Kuch kaam toh nahi tha?
+[8/10/22, 10:14:41 PM] Shivam Sharma: nhi
+[8/10/22, 10:27:09 PM] Baba Ji: 👍
+[8/15/22, 12:49:29 PM] Shivam Sharma: Aur babaji kab aa rhe ho
+[8/15/22, 4:03:50 PM] Baba Ji: Kal
+[8/15/22, 5:57:13 PM] Shivam Sharma: Noice kal kab?
+[8/19/22, 1:25:38 PM] Baba Ji: https://urldefense.com/v3/__https://www.dropbox.com/s/9epjwuvde3shwzh/week1-f22.pptx?dl=0__;!!IKRxdwAv5BmarQ!ajQV2sE4I7K4R1bVOAEFpTRR_o80jWuMPCOYG9M8GA8ij25wF_xGjzF6ZwWlDnv4YzDRrqYdHf7MWAAWLg$
+[8/23/22, 8:15:41 PM] Shivam Sharma: Up for a hike this saturday?
+[8/28/22, 2:52:26 PM] Shivam Sharma: https://chat.whatsapp.com/Hlb2TgaL1Qo7R2zp13gst2
+[8/28/22, 2:52:56 PM] Baba Ji: Ek hi hai?
+[8/28/22, 2:53:06 PM] Shivam Sharma: https://chat.whatsapp.com/G7C5hbJakBbIL4dXgqo9rk
+[8/28/22, 2:53:26 PM] Shivam Sharma: https://chat.whatsapp.com/FfopR1UUzDME7nwRWwLHyA
+[8/28/22, 2:53:44 PM] Shivam Sharma: https://chat.whatsapp.com/K81tSuDeqysFr1oBjrFbS6
+[8/28/22, 2:55:05 PM] Baba Ji: Thanks 👍
+[8/28/22, 2:55:22 PM] Shivam Sharma: 👍
+‎[9/5/22, 5:11:07 PM] Shivam Sharma: ‎Contact card omitted
+[9/8/22, 5:58:40 PM] Shivam Sharma: import numpy as np
+import matplotlib.pyplot as plt
+
+all_label = set(labels)
+print(all_label)
+
+unique, counts = np.unique(labels, return_counts=True)
+
+
+fig = plt.figure(figsize = (10, 5))
+ 
+# creating the bar plot
+plt.bar(unique, counts, color ='blue', width = 0.2)
+ 
+plt.xlabel("Unique Labels")
+plt.ylabel("No. of labels")
+plt.title("Label Distribution")
+plt.show()
+[9/8/22, 6:42:09 PM] Shivam Sharma: from sklearn import preprocessing
+np.array(labels)
+le = preprocessing.LabelEncoder()
+labels = le.fit_transform(labels)
+labels = torch.tensor(labels)
+labels
+[9/8/22, 7:42:46 PM] Shivam Sharma: https://colab.research.google.com/drive/1Hid6JGzNKhxL6RkgHNnWiBjZE9w6Gxp8?usp=sharing
+‎[9/27/22, 9:43:53 PM] Shivam Sharma: Kaagaz_1664339972020.pdf • ‎4 pages ‎document omitted
+‎[10/4/22, 6:06:21 PM] Shivam Sharma: 1223133054_NLP_HW4.pdf • ‎6 pages ‎document omitted
+‎[10/4/22, 7:02:50 PM] Shivam Sharma: Kaagaz_1664864616910.pdf • ‎3 pages ‎document omitted
+‎[10/5/22, 9:39:58 PM] Shivam Sharma: test1.pdf.pdf • ‎3 pages ‎document omitted
+[11/1/22, 2:21:05 PM] Shivam Sharma: 1 preroll
+‎[11/4/22, 7:00:50 PM] Shivam Sharma: Project Phase 1 Report.pdf • ‎12 pages ‎document omitted
+[11/9/22, 1:38:59 PM] Baba Ji: Roti and rice bhul gaya hun, baki sab aa gaya
+[11/9/22, 1:39:20 PM] Shivam Sharma: Okay
+‎[11/19/22, 2:45:01 PM] Shivam Sharma: main.py ‎document omitted
+[11/30/22, 9:43:58 PM] Shivam Sharma: https://docs.google.com/document/d/1BZHZQXvXXRWY3lGAQYealb9WCdyOQFYHxpuVwLdW87E/edit
+‎[11/30/22, 9:53:48 PM] Shivam Sharma: Kaagaz_1669870344078.pdf • ‎15 pages ‎document omitted
+‎[12/6/22, 3:42:24 PM] Shivam Sharma: Language-as-an-Abstraction-for-Hierarchical-Deep-Reinforcement-Learning-master.zip ‎document omitted
+[12/6/22, 3:43:17 PM] Shivam Sharma: aur koi file bhi bhejni h kya?
+[12/6/22, 4:19:54 PM] Baba Ji: Nahi
+‎[12/7/22, 11:07:36 PM] Shivam Sharma: ‎Contact card omitted
+‎[12/22/22, 6:07:09 PM] Shivam Sharma: ‎image omitted
+‎[12/22/22, 6:07:15 PM] Shivam Sharma: ‎image omitted
+[12/22/22, 6:07:30 PM] Baba Ji: Thanks
+[12/28/22, 10:26:05 PM] Baba Ji: Aa gaya na?
+[12/28/22, 10:26:27 PM] Shivam Sharma: Han 👍
+‎[1/11/23, 10:12:19 PM] Shivam Sharma: ‎Contact card omitted
+[1/23/23, 12:52:37 AM] Shivam Sharma: https://www.instagram.com/reel/CmIrCuYjaA33xHvQW15NJHckeAetI8bA2S-Dkg0/?igshid=MDJmNzVkMjY=
+‎[1/27/23, 11:17:30 AM] Baba Ji: Resume_11_22.pdf • ‎1 page ‎document omitted
+[2/2/23, 1:07:24 AM] Baba Ji: Taiyaaaaaar
+‎[3/1/23, 7:38:53 PM] Shivam Sharma: Kaagaz_1677724678499.pdf • ‎4 pages ‎document omitted
+[3/16/23, 7:14:42 PM] Shivam Sharma: Can you accept my invitation so that I can get a free gift?
+https://temu.com/s/OM0uI53XwBBEvoh
+[3/16/23, 7:24:37 PM] Shivam Sharma: Can you accept my invitation so that I can get a free gift?
+https://temu.com/s/U3UMRGfOr71Vw
+[5/8/23, 12:20:49 AM] Shivam Sharma: Yo, this is the story- rishi ghar ja rha tha tow usne somani ke ghar ke bahar police dekhi, puchne par pata chala, ki somani depression me tha, aur wo khud ka gala kaat rha tha chaaku se, uske roommate ne roka tha, tow uske roommate ke pet me chaaku maar diya, fir police ne usko mental asylam bhej diya aur uske ghar wale aa rhe h 9 ko
+[5/8/23, 12:22:02 AM] Baba Ji: WTF
+[5/8/23, 12:22:11 AM] Shivam Sharma: Yep
+[5/8/23, 12:22:25 AM] Shivam Sharma: Aaj hua h ye abhi sham ko
+[5/8/23, 12:23:53 AM] Baba Ji: Abhi kal ho toh aya tha apne ghar
+[5/8/23, 12:24:08 AM] Shivam Sharma: Han wahi
